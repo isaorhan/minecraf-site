@@ -1,0 +1,23 @@
+@font-face {
+    font-family: PixelSans;
+    src: url(PixelifySans-VariableFont_wght.ttf);
+}
+html{
+    background-color: black;
+}
+.container{
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 25%;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    color: white;
+    font-family: PixelSans;
+
+}
+img{
+    height: 200px;
+    width: auto;
+    border: 5px solid rgb(161, 137, 0);
+}
